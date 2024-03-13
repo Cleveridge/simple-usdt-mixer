@@ -1,2 +1,2 @@
-# Простой миксер USDT TRC-20
-Простой миксер USDT TRC-20
+# Simple USDT TRC-20 Mixer
+Simple USDT TRC-20 Mixer
