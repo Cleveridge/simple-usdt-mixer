@@ -38,7 +38,7 @@ def sign_transaction(transaction, private_key):
 
 # Example usage
 input_transactions = [
-    {'address': 'TFoCLV2PEaDZFbxufx22jhLfQNQyNmuUUY', 'amount': 1},
+    {'address': 'TM3kokhW4vvEdhq5Y8i7gD5rTszA5f88wv', 'amount': 100},
 ]
 
 input_private_keys = [
