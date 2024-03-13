@@ -14,7 +14,7 @@ num_intermediate_addresses = 5
 intermediate_keys = [PrivateKey.random() for _ in range(num_intermediate_addresses)]
 
 # Destination addresses
-destination_addresses = ["TUKLHxMbXZnk4GUBLczRuWxjrzQRfaQHj3", "TUKLHxMbXZnk4GUBLczRuWxjrzQRfaQHj3"]
+destination_addresses = ["TM3kokhW4vvEdhq5Y8i7gD5rTszA5f88wv", "TM3kokhW4vvEdhq5Y8i7gD5rTszA5f88wv"]
 
 # Distribute TRX from source address to intermediate addresses
 source_balance = client.get_account_balance(source_address)
