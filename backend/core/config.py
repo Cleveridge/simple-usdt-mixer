@@ -25,7 +25,7 @@ class Settings:
     DEBUG_CHECK_PASSWORD = True     # TODO Comment out for release deployment
 
     # TRON Network Access
-    TRONGRID_API_KEY = "cf0f2ea3-839e-41b3-b5d4-bab491e08432"
+    TRONGRID_API_KEY = "ce6da466-84ea-4e95-8a6b-f4f3907c127f"
     TRON_NETWORK = "Sashta"  # default TRC20
     COMMISSION = 0.2
     # TRON_ADDRESS
